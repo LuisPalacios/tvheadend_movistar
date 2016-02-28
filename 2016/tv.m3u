@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-epg="disable" tvh-chnum="0" tvh-tags="tv|Info",Movistar+
+http://192.168.1.1:4022/udp/239.0.5.185:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="1" tvh-tags="tv|Ocio y cultura",La 1 HD
+http://192.168.1.1:4022/udp/239.0.0.185:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="2" tvh-tags="tv|Ocio y cultura",La 2
+http://192.168.1.1:4022/udp/239.0.0.2:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="3" tvh-tags="tv|Ocio y cultura",Antena 3 HD
+http://192.168.1.1:4022/udp/239.0.0.186:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="4" tvh-tags="tv|Ocio y cultura",Cuatro HD
+http://192.168.1.1:4022/udp/239.0.0.177:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="5" tvh-tags="tv|Ocio y cultura",Tele 5 HD
+http://192.168.1.1:4022/udp/239.0.0.176:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="6" tvh-tags="tv|Ocio y cultura",laSexta HD
+http://192.168.1.1:4022/udp/239.0.0.187:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="7" tvh-tags="tv|Cine",#0 HD
+http://192.168.1.1:4022/udp/239.0.5.187:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="8" tvh-tags="tv|Ocio y cultura",Telemadrid
+http://192.168.1.1:4022/udp/239.0.0.25:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="9" tvh-tags="tv|Ocio y cultura",La Otra
+http://192.168.1.1:4022/udp/239.0.0.26:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="10" tvh-tags="tv|Series",SERIES
+http://192.168.1.1:4022/udp/239.0.0.184:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="11" tvh-tags="tv|Series",Canal+ Series HD
+http://192.168.1.1:4022/udp/239.0.5.250:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="12" tvh-tags="tv|Series",Canal+ Series Xtra HD
+http://192.168.1.1:4022/udp/239.0.5.83:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="13" tvh-tags="tv|Series",FOX HD
+http://192.168.1.1:4022/udp/239.0.9.134:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="14" tvh-tags="tv|Series",AXN HD
+http://192.168.1.1:4022/udp/239.0.9.131:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="15" tvh-tags="tv|Series",TNT HD
+http://192.168.1.1:4022/udp/239.0.5.87:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="16" tvh-tags="tv|Series",Comedy Central HD
+http://192.168.1.1:4022/udp/239.0.0.174:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="17" tvh-tags="tv|Series",Calle 13 HD
+http://192.168.1.1:4022/udp/239.0.5.74:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="18" tvh-tags="tv|Series",COSMO HD
+http://192.168.1.1:4022/udp/239.0.5.71:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="19" tvh-tags="tv|Series",AMC HD
+http://192.168.1.1:4022/udp/239.0.9.132:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="20" tvh-tags="tv|Series",FOX life HD
+http://192.168.1.1:4022/udp/239.0.5.86:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="21" tvh-tags="tv|Series",AXN White HD
+http://192.168.1.1:4022/udp/239.0.5.79:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="22" tvh-tags="tv|Series",SyFy HD
+http://192.168.1.1:4022/udp/239.0.5.75:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="23" tvh-tags="tv|Series",Non Stop People HD
+http://192.168.1.1:4022/udp/239.0.5.170:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="24" tvh-tags="tv|Música",MTV España
+http://192.168.1.1:4022/udp/239.0.0.211:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="25" tvh-tags="tv|Comedia",FDF
+http://192.168.1.1:4022/udp/239.0.0.84:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="26" tvh-tags="tv|Programas",Neox
+http://192.168.1.1:4022/udp/239.0.0.107:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="27" tvh-tags="tv|Series",Atreseries HD
+http://192.168.1.1:4022/udp/239.0.0.181:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="30" tvh-tags="tv|Cine",CINE
+http://192.168.1.1:4022/udp/239.0.0.178:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="31" tvh-tags="tv|Cine",Canal+ Estrenos HD
+http://192.168.1.1:4022/udp/239.0.5.111:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="32" tvh-tags="tv|Cine",Canal+ Xtra HD
+http://192.168.1.1:4022/udp/239.0.5.112:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="33" tvh-tags="tv|Cine",Canal+ Acción HD
+http://192.168.1.1:4022/udp/239.0.5.113:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="34" tvh-tags="tv|Cine",Canal+ Comedia HD
+http://192.168.1.1:4022/udp/239.0.5.114:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="35" tvh-tags="tv|Cine",Canal+ DCine HD
+http://192.168.1.1:4022/udp/239.0.5.115:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="37" tvh-tags="tv|Cine",TCM HD
+http://192.168.1.1:4022/udp/239.0.5.89:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="38" tvh-tags="tv|Cine",Hollywood HD
+http://192.168.1.1:4022/udp/239.0.5.76:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="39" tvh-tags="tv|Cine",Sundance Channel HD
+http://192.168.1.1:4022/udp/239.0.5.72:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="40" tvh-tags="tv|Cine",Paramount C
+http://192.168.1.1:4022/udp/239.0.0.90:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="45" tvh-tags="tv|Deportes",DEPORTES
+http://192.168.1.1:4022/udp/239.0.0.180:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="46" tvh-tags="tv|Futbol",Canal+ Liga HD
+http://192.168.1.1:4022/udp/239.0.9.129:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="47" tvh-tags="tv|Futbol",Canal+ Partidazo HD
+http://192.168.1.1:4022/udp/239.0.5.84:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="48" tvh-tags="tv|Futbol",Canal+ Liga 2 HD
+http://192.168.1.1:4022/udp/239.0.6.13:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="49" tvh-tags="tv|Futbol",Canal+ Futbol HD
+http://192.168.1.1:4022/udp/239.0.6.14:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="50" tvh-tags="tv|Futbol",beIN Sports HD
+http://192.168.1.1:4022/udp/239.0.5.178:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="51" tvh-tags="tv|Futbol",beIN MAX 1
+http://192.168.1.1:4022/udp/239.0.5.177:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="53" tvh-tags="tv|Futbol",Real Madrid TV HD
+http://192.168.1.1:4022/udp/239.0.0.179:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="55" tvh-tags="tv|Deportes",Canal+ Deportes HD
+http://192.168.1.1:4022/udp/239.0.5.248:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="56" tvh-tags="tv|Deportes",Canal+ Deportes 2 HD
+http://192.168.1.1:4022/udp/239.0.5.245:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="57" tvh-tags="tv|Motor",Movistar F1 HD
+http://192.168.1.1:4022/udp/239.0.5.90:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="58" tvh-tags="tv|Motor",Movistar MotoGP HD
+http://192.168.1.1:4022/udp/239.0.5.107:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="59" tvh-tags="tv|Deportes",Canal+ Golf HD
+http://192.168.1.1:4022/udp/239.0.5.249:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="60" tvh-tags="tv|Deportes",Eurosport 1 HD
+http://192.168.1.1:4022/udp/239.0.9.135:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="61" tvh-tags="tv|Deportes",Eurosport 2 HD
+http://192.168.1.1:4022/udp/239.0.5.105:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="63" tvh-tags="tv|Deportes",Teledeporte HD
+http://192.168.1.1:4022/udp/239.0.0.188:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="64" tvh-tags="tv|Futbol",Futbol Replay
+http://192.168.1.1:4022/udp/239.0.0.97:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="66" tvh-tags="tv|Programas",Iberalia TV
+http://192.168.1.1:4022/udp/239.0.5.6:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="67" tvh-tags="tv|Deportes",Canal+ Toros HD
+http://192.168.1.1:4022/udp/239.0.0.191:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="70" tvh-tags="tv|Documental",National Geographic HD
+http://192.168.1.1:4022/udp/239.0.5.78:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="71" tvh-tags="tv|Documental",Nat Geo Wild HD
+http://192.168.1.1:4022/udp/239.0.9.136:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="72" tvh-tags="tv|Documental",Historia
+http://192.168.1.1:4022/udp/239.0.0.19:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="73" tvh-tags="tv|Documental",Discovery Channel HD
+http://192.168.1.1:4022/udp/239.0.5.77:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="74" tvh-tags="tv|Documental",Odisea HD
+http://192.168.1.1:4022/udp/239.0.5.82:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="75" tvh-tags="tv|Documental",A and E
+http://192.168.1.1:4022/udp/239.0.0.38:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="76" tvh-tags="tv|Documental",Viajar HD
+http://192.168.1.1:4022/udp/239.0.5.73:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="77" tvh-tags="tv|Documental",Discov Max
+http://192.168.1.1:4022/udp/239.0.0.32:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="79" tvh-tags="tv|Ocio y cultura",CCTV E
+http://192.168.1.1:4022/udp/239.0.0.65:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="80" tvh-tags="tv|Entretenimiento",Cocina
+http://192.168.1.1:4022/udp/239.0.0.27:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="81" tvh-tags="tv|Entretenimiento",Decasa
+http://192.168.1.1:4022/udp/239.0.0.71:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="82" tvh-tags="tv|Acción y suspense",Crimen e Inv
+http://192.168.1.1:4022/udp/239.0.0.57:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="83" tvh-tags="tv|Drama",Divinity
+http://192.168.1.1:4022/udp/239.0.0.48:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="84" tvh-tags="tv|Programas",Nova
+http://192.168.1.1:4022/udp/239.0.0.106:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="85" tvh-tags="tv|Entretenimiento",Mega
+http://192.168.1.1:4022/udp/239.0.3.31:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="86" tvh-tags="tv|Series",Energy
+http://192.168.1.1:4022/udp/239.0.0.59:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="87" tvh-tags="tv|Cine",Garage TV
+http://192.168.1.1:4022/udp/239.0.0.99:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="90" tvh-tags="tv|Infantil",Baby TV
+http://192.168.1.1:4022/udp/239.0.0.113:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="91" tvh-tags="tv|Infantil",Disney Jr
+http://192.168.1.1:4022/udp/239.0.0.10:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="92" tvh-tags="tv|Infantil",Panda
+http://192.168.1.1:4022/udp/239.0.0.117:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="93" tvh-tags="tv|Infantil",Nick Jr
+http://192.168.1.1:4022/udp/239.0.0.115:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="94" tvh-tags="tv|Infantil",Nickelodeon
+http://192.168.1.1:4022/udp/239.0.0.69:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="95" tvh-tags="tv|Infantil",Disney XD
+http://192.168.1.1:4022/udp/239.0.0.11:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="96" tvh-tags="tv|Infantil",Disney Channel HD
+http://192.168.1.1:4022/udp/239.0.0.173:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="97" tvh-tags="tv|Infantil",Boing
+http://192.168.1.1:4022/udp/239.0.0.66:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="98" tvh-tags="tv|Infantil",Clan TVE
+http://192.168.1.1:4022/udp/239.0.0.80:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="103" tvh-tags="tv|Música",40 TV
+http://192.168.1.1:4022/udp/239.0.0.12:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="104" tvh-tags="tv|Música",Sol Música
+http://192.168.1.1:4022/udp/239.0.0.39:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="105" tvh-tags="tv|Música",VH1
+http://192.168.1.1:4022/udp/239.0.0.75:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="112" tvh-tags="tv|Internacional",24 Horas
+http://192.168.1.1:4022/udp/239.0.0.78:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="113" tvh-tags="tv|Noticias",BBC World News
+http://192.168.1.1:4022/udp/239.0.0.30:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="114" tvh-tags="tv|Noticias",CNN International
+http://192.168.1.1:4022/udp/239.0.0.40:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="115" tvh-tags="tv|Noticias",FOX News
+http://192.168.1.1:4022/udp/239.0.7.65:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="116" tvh-tags="tv|Noticias",Euronews
+http://192.168.1.1:4022/udp/239.0.0.28:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="117" tvh-tags="tv|Noticias",Al Jazeera
+http://192.168.1.1:4022/udp/239.0.7.66:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="118" tvh-tags="tv|Noticias",France 24
+http://192.168.1.1:4022/udp/239.0.7.67:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="119" tvh-tags="tv|Noticias",Russia Today
+http://192.168.1.1:4022/udp/239.0.7.68:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="120" tvh-tags="tv|Noticias",CNBC Europe
+http://192.168.1.1:4022/udp/239.0.7.69:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="122" tvh-tags="tv|Noticias",TV5 Monde
+http://192.168.1.1:4022/udp/239.0.0.31:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="123" tvh-tags="tv|Noticias",Bloomberg
+http://192.168.1.1:4022/udp/239.0.0.29:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="124" tvh-tags="tv|Noticias",Intereconomía
+http://192.168.1.1:4022/udp/239.0.0.63:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="125" tvh-tags="tv|Noticias",13 TV
+http://192.168.1.1:4022/udp/239.0.0.91:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="128" tvh-tags="tv|Programas",I 24 News
+http://192.168.1.1:4022/udp/239.0.0.220:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="129" tvh-tags="tv|Programas",CNC World
+http://192.168.1.1:4022/udp/239.0.0.221:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="133" tvh-tags="tv|Programas",Canal Orbe 21
+http://192.168.1.1:4022/udp/239.0.0.45:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="150" tvh-tags="tv|Programas",Andalucía TV
+http://192.168.1.1:4022/udp/239.0.0.1:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="151" tvh-tags="tv|Programas",TV Galicia
+http://192.168.1.1:4022/udp/239.0.3.37:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="153" tvh-tags="tv|Programas",TV3 Cat
+http://192.168.1.1:4022/udp/239.0.3.36:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="154" tvh-tags="tv|Programas",ETB Sat.
+http://192.168.1.1:4022/udp/239.0.0.60:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="155" tvh-tags="tv|Entretenimiento",Aragon TV Sat
+http://192.168.1.1:4022/udp/239.0.0.81:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="200" tvh-tags="tv|Entretenimiento",LTC
+http://192.168.1.1:4022/udp/239.0.0.98:8208
