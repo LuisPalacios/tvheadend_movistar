@@ -13,3 +13,4 @@ mv rytecxmltv-Spain guia-tmp.xml
 #
 ./retoca_guia.pl < guia-tmp.xml > guia.xml
 rm guia-tmp.xml
+rm rytecxmltv-Spain.gz > /dev/null 2>/dev/null
