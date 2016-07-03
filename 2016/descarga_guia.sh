@@ -1,16 +1,13 @@
 #!/bin/bash
 
-# Fuente del EPG: http://www.iptvsaga.com/xmltv-epg-graber-batch-script-for-windows/
-# -> http://www.iptvsaga.com/download/xmltv_epg_graber.zip
+# Nota: A principios de Julio de 2016 el enlace de vuplus devuelve
+# un fichero vacío.
+#
 #
 cd /home/luis/guia
-wget http://www.vuplus-community.net/rytec/rytecxmltv-Spain.gz
-gunzip -f rytecxmltv-Spain.gz
-mv rytecxmltv-Spain guia-tmp.xml
 
-# Cambio varios nombres de programas para adecuarlo a los que utiliza Movistar TV
-# y conseguir así que el EPG se asocie de forma automática en Tvheadend
-#
-./retoca_guia.pl < guia-tmp.xml > guia.xml
-rm guia-tmp.xml
-rm rytecxmltv-Spain.gz > /dev/null 2>/dev/null
+# Descomenta el que este activo en este momento:
+
+#./descarga_guia_vuplus.sh
+./descarga_guia_tododream.sh
+
